@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./.github/assets/react1.png" width="80%"
-  alt="Priscila oliveira" />
+  alt="Rodrigo Augusto" />
   <br>
   <h1 align="center">Rodrigo Augusto Silva Lima</h1>
   <a
