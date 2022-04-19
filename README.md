@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | Bootstrap | Ionic1 | Ionic3 | Angular
+  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox
 </p>
 <h5 align="center">
   📌  Living in <b>Jacareí</b>, <b>São Paulo</b>, <b>Brazil</b>  
